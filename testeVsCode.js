@@ -1,1 +1,0 @@
-console.log("novo teste vscode git");
